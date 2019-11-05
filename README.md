@@ -1,7 +1,7 @@
-# Object-Oriented-Facts-and-Misunderstandings
-객체지향의 사실과 오해 스터디 내용정리를 위한 Repository
+# the-essence-of-object-orientation
+«**객체지향의 사실과 오해**(조영호 저)» 스터디 내용정리를 위한 Repository
 
-# (19.11.03 ~ )
+# (2019.11.03 ~ )
 
 # 참석자
 - Gyumin Kim : [https://github.com/gyumin-kim](https://github.com/gyumin-kim)
