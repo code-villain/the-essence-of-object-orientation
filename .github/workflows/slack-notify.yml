@@ -12,7 +12,7 @@ jobs:
         SLACK_CHANNEL: 금요일-스터디
         SLACK_COLOR: '#1A6B11'
         SLACK_ICON: https://github.com/code-villain.png?size=48
-        SLACK_MESSAGE: 'A new commit has been pushed :point_right::ok_hand:'
+        SLACK_MESSAGE: '[객체지향의 사실과 오해] A new commit has been pushed :point_right::ok_hand:'
         SLACK_TITLE: Message
         SLACK_USERNAME: CodeVillainBot
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
